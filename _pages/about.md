@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Here is Tianyi Shang(尚天翼).
+Here is **Tianyi Shang(尚天翼).**
 
-I am a final year undergraduated student at the school of Eectronic Engineering, Fuzhou University and Maynooth University. I am also a visiting student in [CV4RA](https://github.com/CV4RA) Lab, under the supervision of Prof. Zhenyu Li.
+I am a final-year undergraduate student in Electronic Engineering at Fuzhou University and Maynooth University. Currently, I am a visiting research student at the **[CV4RA](https://github.com/CV4RA) Lab** Lab, where I am fortunate to be advised by **Prof. Zhenyu Li**.
 
-My research interests lies in computer vision and their application in robotics. In addition, I closely follow the lateset develops in Vision Language Localization(VLL) and Vision Language Action(VLA).
+My research interests lie at the intersection of **computer vision and robotics**. I am particularly interested in the latest developments in Vision-Language Localization (VLL) and Vision-Language for Action (VLA).
 
 A data-driven personal website
 ======
