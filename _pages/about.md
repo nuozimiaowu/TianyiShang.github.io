@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Here is Tianyi Shang(尚天翼).
 
-I am a final year undergraduated student at the school of Eectronic Engineering, Fuzhou University and Maynooth University. I am also a visiting student in [CV4RA](https://github.com/CV4RA) Lab, under the supervision of Prof. Zhenyu Li
+I am a final year undergraduated student at the school of Eectronic Engineering, Fuzhou University and Maynooth University. I am also a visiting student in [CV4RA](https://github.com/CV4RA) Lab, under the supervision of Prof. Zhenyu Li.
+
 My research interests lies in computer vision and their application in robotics. In addition, I closely follow the lateset develops in Vision Language Localization(VLL) and Vision Language Action(VLA).
 
 A data-driven personal website
